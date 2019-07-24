@@ -6,7 +6,7 @@ El repositorio del proyecto se distribuye de la siguiente manera:
 *	requirements.txt: Contiene las librerias requeridas.
 *	guardia.py: Interfaz del sistema.
 
-## Requerimentos
+## RequerimIentos
 
 Para trabajar con el proyecto se necesita tener instalados los siguientes programas y dependencias:
 *	Python >= 3.6.2 
